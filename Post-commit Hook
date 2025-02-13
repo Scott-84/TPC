@@ -1,0 +1,3 @@
+#!/bin/sh 
+# Notify team members 
+echo "Commit made by $(git config user.name)" | mail -s "New Commit" scott.sbc2011@yahoo.com
