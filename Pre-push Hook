@@ -1,0 +1,5 @@
+#!/bin/sh 
+# Run tests before pushing 
+npm test 
+# Ensure code standards 
+npm run lint 
