@@ -1,0 +1,3 @@
+!/bin/sh 
+# Trigger deployment script 
+/path/to/deploy-script.sh
